@@ -12,9 +12,9 @@ export default class App extends Component {
 
   state = {
     todoData: [
-      this.createTodoItem('Study html & css'),
-      this.createTodoItem('Study javascript'),
-      this.createTodoItem('Study reacr-js'),
+      this.createTodoItem('Study HTML & CSS'),
+      this.createTodoItem('Study JavaScript'),
+      this.createTodoItem('Study React js'),
       this.createTodoItem('Prepare a cv'),
       this.createTodoItem('Find a job')
     ],
